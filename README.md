@@ -42,4 +42,4 @@ Deadline (Unix Timestamp)
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the standard SPDX License.
